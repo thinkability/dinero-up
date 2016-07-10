@@ -8,7 +8,7 @@ Koden bruger [SharpShell](https://github.com/dwmkerr/sharpshell) til at registre
 
 Inden installation skal værdierne i ClientConfiguration.cs erstattes med dine egne værdier:
 
-```
+```csharp
 public static string ClientId => "[client-id]";
 public static string ClientSecret => "[client-secret]";
 public static string ApiKey => "[api key]";
