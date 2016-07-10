@@ -20,5 +20,5 @@ public static int CompanyId => 000000; //company ID
 ## Dinero API'et
 Læs mere om Dinero's API her: [Dinero API documentation](https://api.dinero.dk/docs).
 
-# Send mig dit forslag
+## Send mig dit forslag
 Skriv meget gerne til mig på [think@thinkability.dk](mailto:think@thinkability.dk) hvis du har spørgsmål eller forslag til forbedringer. Forslag til andre apps modtages også gerne :) 
