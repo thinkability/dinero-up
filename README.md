@@ -1,5 +1,5 @@
 # dinero-up
-Højreklik og upload dine bilag til Dinero.
+Højreklik og upload dine bilag til [Dinero](http://www.dinero.dk).
 
 Dette projekt installerer en højrekliks-menu i Windows, som gør det muligt at uploade bilag direkte til Dinero fra Stifinder.
 
@@ -19,3 +19,6 @@ public static int CompanyId => 000000; //company ID
 
 ## Dinero API'et
 Læs mere om Dinero's API her: [Dinero API documentation](https://api.dinero.dk/docs).
+
+# Send mig dit forslag
+Skriv meget gerne til mig på [think@thinkability.dk](mailto:think@thinkability.dk) hvis du har spørgsmål eller forslag til forbedringer. Forslag til andre apps modtages også gerne :) 
