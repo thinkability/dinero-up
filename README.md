@@ -20,5 +20,11 @@ public static int CompanyId => 000000; //company ID
 ## Dinero API'et
 Læs mere om Dinero's API her: [Dinero API documentation](https://api.dinero.dk/docs).
 
+## Roadmap
+Nedenstående er på to-do listen:
+* Pæn installer
+* Upload-dialogbox
+* Proxy-løsning til at omgå behovet for client-id og client-secret i koden. Dette er nødvendigt så længe Dinero's API kræver en klient-identifikation. 
+
 ## Send mig dit forslag
-Skriv til mig på [think@thinkability.dk](mailto:think@thinkability.dk) hvis du har spørgsmål eller forslag til forbedringer. Forslag til andre apps modtages også gerne :) 
+Skriv til mig på [think@thinkability.dk](mailto:think@thinkability.dk) hvis du har spørgsmål eller forslag til forbedringer.
