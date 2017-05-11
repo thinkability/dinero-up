@@ -1,4 +1,4 @@
-# dinero-up
+# dinero-up [![Build status](https://ci.appveyor.com/api/projects/status/dkwjjjs0fjkmm1l0?svg=true)](https://ci.appveyor.com/project/thinkability/dinero-up)
 Højreklik og upload dine bilag til [Dinero](http://www.dinero.dk).
 
 Dette projekt installerer en højrekliks-menu i Windows, som gør det muligt at uploade bilag direkte til Dinero fra Stifinder.
